@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Conversor Temperaturav2</string>
+    <string name="string_temperature">Temperatura</string>
+    <string name="hint_temperature">Digite a temperatura</string>
+    <string name="str_btnFahrenheit_celsius" translatable="false">Fahrenheit-Celsius</string>
+    <string name="str_btnCelsius_fahrenheit" translatable="false">Celsius-Fahrenheit</string>
+    <string name="str_btnKelvin">Fahrenheit-Kelvin</string>
+    <string name="msgCtoF">Realizada a conversão de Celsius para Fahrenheit</string>
+    <string name="msgFtoC">Realizada a conversão de Fahrenheit para Celsius</string>
+    <string name="msgCtoK">Realizada a conversão de Celsius para Kelvin</string>
+    <string name="msgFtoK">Realizada a conversão de Fahrenheit para Kelvin</string>
+    <string name="msgKtoC">Realizada a conversao de Kelvin para Celsius</string>
+    <string name="msgKtoF">Realizada a conversão de Kelvin para Fahrenheit</string>
+    <string name="error_popup_notify">Não foi possível converter a temperatura com os dados informados.</string>
+</resources>
